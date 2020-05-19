@@ -13,7 +13,7 @@ while n.isalpha() == False:            #判断是否为字符
         break
     n = input()
     if n.isalpha() == True:
-        print("请输入一个数字！")
+        print("请输入一个数字吧！")
         break
 else:
     print("请输入一个数字！")
